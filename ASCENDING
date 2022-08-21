@@ -1,0 +1,4 @@
+
+SELECT *
+FROM `student_information` 
+ORDER BY Name;
