@@ -1,0 +1,4 @@
+SELECT *
+FROM `student_information` 
+WHERE Roll BETWEEN 201 AND 205
+ORDER BY Roll;
