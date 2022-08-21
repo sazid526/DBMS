@@ -1,0 +1,3 @@
+SELECT Roll AS Id, Name AS 'First_Name'
+FROM `student_information` 
+WHERE Name LIKE 'S%';
