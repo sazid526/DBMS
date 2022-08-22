@@ -1,0 +1,2 @@
+DELETE FROM salesman_info
+WHERE Salesman_ID = 102;
