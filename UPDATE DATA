@@ -1,0 +1,3 @@
+UPDATE salesman_info
+SET Age=25
+WHERE Salesman_ID=103;
