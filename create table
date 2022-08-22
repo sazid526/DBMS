@@ -1,0 +1,8 @@
+CREATE TABLE Salesman_info
+(
+  Salesman_ID int NOT null AUTO_INCREMENT,
+    Salesman_Name varchar(20) NOT null,
+    Age int,
+    Salery double(10,2),
+    PRIMARY KEY(Salesman_ID)
+);    
