@@ -1,1 +1,13 @@
 SELECT CONCAT('MY NAME IS','SAZID');
+
+
+
+
+
+
+
+
+
+
+SELECT  CONCAT(Name,' is ',Age,' Years old ')
+FROM student_information;
