@@ -1,0 +1,2 @@
+INSERT INTO salesman_info
+VALUES(101,'Rifat',22,20000)
