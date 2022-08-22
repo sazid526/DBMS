@@ -1,0 +1,1 @@
+SELECT UPPER('my name is sazid');
