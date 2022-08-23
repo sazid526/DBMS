@@ -1,0 +1,2 @@
+SELECT AVG(salery)
+FROM salesman_info;
