@@ -1,0 +1,3 @@
+SELECT *
+FROM student_information
+WHERE GPA >  (SELECT AVG(GPA) FROM student_information);
