@@ -1,0 +1,2 @@
+SELECT MIN(GPA)
+FROM student_information;
