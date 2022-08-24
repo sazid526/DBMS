@@ -1,0 +1,2 @@
+ALTER TABLE student_information
+ADD Home varchar(20);
