@@ -1,0 +1,4 @@
+SELECT Age,sum(salery)
+FROM salesman_info
+GROUP BY Age
+ORDER by sum(salery) DESC;
