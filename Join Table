@@ -1,0 +1,3 @@
+SELECT student_details.Roll,registation_number,Name,Gender,Age,Department,GPA
+FROM student_details,result
+WHERE student_details.Roll = result.Roll;
