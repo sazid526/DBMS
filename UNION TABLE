@@ -1,0 +1,7 @@
+SELECT Salesman_ID,Salesman_Name,Age,Salery
+FROM salesman_info
+
+UNION
+
+SELECT Salesman_ID, Salesman_Name,Age,Salery
+FROM salesman_info_pharma
