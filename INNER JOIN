@@ -1,0 +1,3 @@
+SELECT student_details.Roll,student_details.Name,result.Registation_number,result.Roll,result.GPA
+FROM result INNER JOIN student_details
+ON student_details.Roll = result.Roll;
