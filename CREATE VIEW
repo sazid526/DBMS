@@ -1,3 +1,9 @@
 CREATE VIEW vertual_student_demo AS
 SELECT Roll, Name, Gender
 FROM student_details;
+
+
+# To display view table :
+
+SELECT *
+FORM vertual_student_table;
