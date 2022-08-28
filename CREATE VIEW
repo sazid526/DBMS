@@ -6,4 +6,4 @@ FROM student_details;
 # To display view table :
 
 SELECT *
-FORM vertual_student_table;
+FORM vertual_student_demo;
