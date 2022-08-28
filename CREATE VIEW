@@ -1,0 +1,3 @@
+CREATE VIEW vertual_student_demo AS
+SELECT Roll, Name, Gender
+FROM student_details;
